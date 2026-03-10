@@ -2,5 +2,3 @@ node_modules/
 dist/
 .env
 .DS_Store
-
-Add Vite build and Github Pages workflow
