@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from "react";
+import ReactDOM from "react-dom/client";
 
 const data = {
   stats: [
@@ -341,3 +342,5 @@ function Callout({ children }) {
     </div>
   );
 }
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
