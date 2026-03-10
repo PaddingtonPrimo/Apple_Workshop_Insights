@@ -6,3 +6,5 @@ export default {
     outDir: 'dist'
   }
 }
+
+Add Vite build and Github Pages workflow
