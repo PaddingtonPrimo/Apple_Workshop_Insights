@@ -21,4 +21,4 @@ npm run dev
 npm run build
 ```
 
-The built output is placed in the `dist` directory and automatically deployed to GitHub Pages on every push to the `main` branch.
+The built output is placed in the `dist` directory and automatically deployed to GitHub Pages on every push to the `main` branch. 
